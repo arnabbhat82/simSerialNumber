@@ -1,5 +1,7 @@
 {
   "name": "imei",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
